@@ -1,2 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+Features of this Stage 
+The background of the project updates based on time.
+The blocks vanish on coming in contact with the slingshot.
